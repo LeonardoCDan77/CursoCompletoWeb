@@ -1,5 +1,7 @@
 /*Modelo Caixa*/
 
+
+/* Parte referente a margin e padding*/
 .conteudo{
 	border:  1px solid red;
 	/*
@@ -19,3 +21,4 @@
 	*/
 	margin: 20px;
 }
+
